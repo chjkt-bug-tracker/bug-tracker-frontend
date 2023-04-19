@@ -8,8 +8,9 @@ Bug tracker designed to help development teams document current bugs and their s
 
 ## Links and Resources
 
+[Click here to watch demo video!](https://www.youtube.com/watch?v=OV23NNmTaMM)
+
  - [Front End Github Repository](https://github.com/chjkt-bug-tracker/bug-tracker-frontend)
- - [Netlify](https://vft.netlify.app/)
  - [Back End Github Repository](https://github.com/chjkt-bug-tracker/bug-tracker-backend)
  - [SQL Database](https://dashboard.render.com/d/dpg-cfc5ec9gp3jokp7k2kng-a)
 
